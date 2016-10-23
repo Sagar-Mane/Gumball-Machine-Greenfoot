@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GumballMachine
+comment0.text=\r\n\ GumballMachine\ is\ used\ for\ interacting\ with\ the\ user.\r\n\ \r\n\ @author\ Sagar\ Mane\ \r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=GumballMachine()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

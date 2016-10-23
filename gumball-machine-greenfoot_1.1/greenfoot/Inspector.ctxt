@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\r\n\ Inspector\ class\ is\ used\ for\ validating\ the\ coin\ inserted\ by\ the\ user\ in\ the\ gumball\ machine\ and\ perform\ specific\ actions\ based\ on\ that.\r\n\ @author\ Sagar\ Mane\ \r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Inspector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=p
+comment2.target=int\ inspect(greenfoot.Actor)
+numComments=3
